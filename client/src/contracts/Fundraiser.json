@@ -1,0 +1,122 @@
+{
+  "contractName": "Fundraiser",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.5.16+commit.9c3226ce\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"methods\":{}},\"userdoc\":{\"methods\":{}}},\"settings\":{\"compilationTarget\":{\"project:/contracts/Fundraiser.sol\":\"Fundraiser\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"project:/contracts/Fundraiser.sol\":{\"keccak256\":\"0x5ebbf9833916828ce2ec1d06db1fd138a305feed65ab0841829ed342f45b8308\",\"urls\":[\"bzz-raw://f033856ea105b2030c331affedecfad85356af5ad9bc2050c7b40e25d85675a5\",\"dweb:/ipfs/Qmcb5zQhx5qiCfdwjPkViYmNsaqgSrWY1v8irRTzathG7d\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603e80601d6000396000f3fe6080604052600080fdfea265627a7a7231582001787ad8c5e9f2cf57d7efe358bbc69a0d47290094d71b8a7594c5d9a7daffe064736f6c63430005100032",
+  "deployedBytecode": "0x6080604052600080fdfea265627a7a7231582001787ad8c5e9f2cf57d7efe358bbc69a0d47290094d71b8a7594c5d9a7daffe064736f6c63430005100032",
+  "sourceMap": "35:27:0:-;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;35:27:0;;;;;;;",
+  "deployedSourceMap": "35:27:0:-;;;;;",
+  "source": "pragma solidity >0.4.23 <0.7.0;\r\n\r\ncontract Fundraiser\r\n{\r\n\r\n}",
+  "sourcePath": "C:\\Users\\Veronika\\OneDrive\\Desktop\\cr_coding\\fundraiser\\contracts\\Fundraiser.sol",
+  "ast": {
+    "absolutePath": "project:/contracts/Fundraiser.sol",
+    "exportedSymbols": {
+      "Fundraiser": [
+        2
+      ]
+    },
+    "id": 3,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 1,
+        "literals": [
+          "solidity",
+          ">",
+          "0.4",
+          ".23",
+          "<",
+          "0.7",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:31:0"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 2,
+        "linearizedBaseContracts": [
+          2
+        ],
+        "name": "Fundraiser",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 3,
+        "src": "35:27:0"
+      }
+    ],
+    "src": "0:62:0"
+  },
+  "legacyAST": {
+    "attributes": {
+      "absolutePath": "project:/contracts/Fundraiser.sol",
+      "exportedSymbols": {
+        "Fundraiser": [
+          2
+        ]
+      }
+    },
+    "children": [
+      {
+        "attributes": {
+          "literals": [
+            "solidity",
+            ">",
+            "0.4",
+            ".23",
+            "<",
+            "0.7",
+            ".0"
+          ]
+        },
+        "id": 1,
+        "name": "PragmaDirective",
+        "src": "0:31:0"
+      },
+      {
+        "attributes": {
+          "baseContracts": [
+            null
+          ],
+          "contractDependencies": [
+            null
+          ],
+          "contractKind": "contract",
+          "documentation": null,
+          "fullyImplemented": true,
+          "linearizedBaseContracts": [
+            2
+          ],
+          "name": "Fundraiser",
+          "nodes": [
+            null
+          ],
+          "scope": 3
+        },
+        "id": 2,
+        "name": "ContractDefinition",
+        "src": "35:27:0"
+      }
+    ],
+    "id": 3,
+    "name": "SourceUnit",
+    "src": "0:62:0"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.5.16+commit.9c3226ce.Emscripten.clang"
+  },
+  "networks": {},
+  "schemaVersion": "3.4.3",
+  "updatedAt": "2021-11-13T10:10:54.797Z",
+  "devdoc": {
+    "methods": {}
+  },
+  "userdoc": {
+    "methods": {}
+  }
+}
