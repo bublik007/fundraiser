@@ -2,6 +2,17 @@
 This DApp allows beneficiaries, i.e., any entities looking for funding, to create their fundraisers and receive donations in ether from the public.
 The inspiration for the DApp idea, as well as for some functionality, comes from the "Hands-On Smart Contract Development with Solidity and Ethereum" book by Kevin Solorio, Randall Kanna, and David H. Hoover, published by O'Reilly Media.
 
+## Used Tools
+
+To develop the application, the following third-party tools were used:
+* Node.js: this is an open-source, cross-platform, back-end JavaScript runtime environment.
+* Ganache: this is a destop in-memory blockchain simulator, which can be used to run tests, execute commands, and inspect state while controlling how the chain operates.
+* Truffle: this tool simplifies creating blockchain projects, helps to test, compile, and deploy. This project was created using a Truffle box.
+* Web3.js: this JavaScript library allows the front-end to interact with the blockchain through RPC.
+
+The contracts are written in Solidity.
+The user interface is written in React.
+
 ## Implementation Details
 
 ### Contracts
